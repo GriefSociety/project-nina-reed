@@ -1,11 +1,23 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f7fa;
-    color: #333;
+/* ===== GLOBAL STYLES ===== */
+
+* {
     margin: 0;
-    padding: 40px;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-h1 {
-    color: #005b96;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f6f8;
+    color: #222;
+    line-height: 1.6;
+}
+
+/* ===== HEADER ===== */
+
+header {
+    background-color: #005A9C;
+    color: white;
+    padding: 25px
+    
 }
